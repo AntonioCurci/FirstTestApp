@@ -15,6 +15,7 @@
 		83E76BD81C7C6AF500493C30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83E76BD61C7C6AF500493C30 /* LaunchScreen.storyboard */; };
 		83E76BE31C7C6AF600493C30 /* FirstTestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E76BE21C7C6AF600493C30 /* FirstTestAppTests.m */; };
 		83E76BEE1C7C6AF600493C30 /* FirstTestAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E76BED1C7C6AF600493C30 /* FirstTestAppUITests.m */; };
+		83E76BFD1C7C768200493C30 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E76BFC1C7C768200493C30 /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		83E76BE91C7C6AF600493C30 /* FirstTestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstTestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83E76BED1C7C6AF600493C30 /* FirstTestAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstTestAppUITests.m; sourceTree = "<group>"; };
 		83E76BEF1C7C6AF600493C30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83E76BFB1C7C768200493C30 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		83E76BFC1C7C768200493C30 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				83E76BCC1C7C6AF400493C30 /* AppDelegate.m */,
 				83E76BCE1C7C6AF400493C30 /* ViewController.h */,
 				83E76BCF1C7C6AF400493C30 /* ViewController.m */,
+				83E76BFB1C7C768200493C30 /* TableViewController.h */,
+				83E76BFC1C7C768200493C30 /* TableViewController.m */,
 				83E76BD11C7C6AF500493C30 /* Main.storyboard */,
 				83E76BD41C7C6AF500493C30 /* Assets.xcassets */,
 				83E76BD61C7C6AF500493C30 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				83E76BD01C7C6AF400493C30 /* ViewController.m in Sources */,
 				83E76BCD1C7C6AF400493C30 /* AppDelegate.m in Sources */,
 				83E76BCA1C7C6AF400493C30 /* main.m in Sources */,
+				83E76BFD1C7C768200493C30 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
