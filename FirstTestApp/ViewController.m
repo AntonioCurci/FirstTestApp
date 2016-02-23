@@ -18,6 +18,10 @@
     [super viewDidLoad];
     NSLog(@"Hello! Everybody!");
     NSLog(@"Another stupid editore kk");
+    NSLog(@"this is my branch");
+    
+    int i=0;
+    i=10;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
