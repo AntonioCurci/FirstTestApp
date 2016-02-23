@@ -21,6 +21,7 @@
     NSLog(@"this is my branch");
     
     int i=0;
+    i=10;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
